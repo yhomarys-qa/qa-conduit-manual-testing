@@ -102,7 +102,7 @@ To apply and demonstrate manual testing skills including test design, execution,
 
 ## 📊 Key Highlights
 
-- +150 manual test cases (planned/ongoing)  
+- Expanding suite of manual test cases covering key application features  
 - Structured QA documentation  
 - Real-world testing simulation  
 - Organized test suites following QA standards  
