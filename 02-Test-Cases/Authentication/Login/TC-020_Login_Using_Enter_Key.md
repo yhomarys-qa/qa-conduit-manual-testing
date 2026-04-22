@@ -1,6 +1,6 @@
 # TC-020 - Login Using the Enter Key
 
-## Test Steps
+## Steps
 1. Enter valid email/username
 2. Enter valid password
 3. Press the Enter key on the keyboard
