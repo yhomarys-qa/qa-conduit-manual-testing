@@ -1,4 +1,4 @@
-# TC-016 - Verify copy/cut disabled in password field
+# TC-012 - Verify copy/cut disabled in password field
 
 ## Steps
 1. Enter password
