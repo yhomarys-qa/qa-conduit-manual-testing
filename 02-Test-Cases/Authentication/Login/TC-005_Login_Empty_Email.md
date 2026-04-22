@@ -2,7 +2,8 @@
 
 ## Steps
 1. Leave email/username empty
-2. Click Sign In
+2. Enter valid password
+3. Click Sign In
 
 ## Expected Result
 Message displayed: "Email or Username: can’t be blank"
