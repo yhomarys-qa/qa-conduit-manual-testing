@@ -1,6 +1,6 @@
 # TC-022 - Verify Sign Up Page Redirection
 
-## Test Steps
+## Steps
 1. Open the login page
 2. Locate the "Need an account?" link
 3. Click on the "Need an account?" link
