@@ -6,4 +6,4 @@
 3. Observe whether the placeholder text is displayed before entering any data
 
 ## Expected result
-The "Password" field should display a placeholder text before user input.
+The "Password" field should display a placeholder text before the user enters any data (e.g., "Password" or "Enter your password").
