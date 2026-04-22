@@ -6,4 +6,4 @@
 3. Observe whether the placeholder text is displayed before entering any data
 
 ## Expected result
-The field should display placeholder text (masked input field behavior)
+The "Password" field should display a placeholder text before user input.
