@@ -6,4 +6,4 @@
 3. Observe the placeholder text inside the field
 
 ## Expected Result
-The placeholder should display "Enter your username or email"
+The "Email or Username" field should display the placeholder text: "Enter your username or email".
