@@ -1,6 +1,6 @@
 # TC-019 - Login Using the Sign In Button
 
-## Test Steps
+## Steps
 1. Enter valid email/username
 2. Enter valid password
 3. Click on the "Sign In" button
