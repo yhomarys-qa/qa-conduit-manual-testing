@@ -1,4 +1,4 @@
-# TC-002 - Verify login form elements
+# TC-002 - Verify Login Form Elements
 
 ## Steps
 1. Open login page
