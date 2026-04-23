@@ -1,4 +1,4 @@
-# TC-030 - The Registration Form should display the password confirmation field.
+# TC-030 - Visibility of the Password Confirmation Field in the Registration Form
 
 ## Steps
 1. Open the Conduit application.
