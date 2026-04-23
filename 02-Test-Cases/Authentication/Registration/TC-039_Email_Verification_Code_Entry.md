@@ -4,7 +4,7 @@
 1. Open the Conduit application
 2. Complete the registration process successfully
 3. Navigate to the email verification page
-4. Enter the 6-digit verification code received in
+4. Enter the 6-digit verification code received 
 5. Submit the verification code
 
 ## Expected Result
