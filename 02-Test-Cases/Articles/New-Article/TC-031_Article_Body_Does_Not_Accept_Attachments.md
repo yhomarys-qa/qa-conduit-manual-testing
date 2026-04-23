@@ -8,4 +8,4 @@
 5. Attempt to paste a file or attachment into the same field
 
 ## Expected Result
-The system should not accept file attachments.
+The system should not allow file attachments in the article body field.
