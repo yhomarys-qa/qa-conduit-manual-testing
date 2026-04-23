@@ -12,5 +12,3 @@
 ## Expected Result
 The registration form should be submitted successfully when the Enter key is pressed.
 The user should be registered successfully.
-A confirmation email should be sent to the registered email address.
-The user should be redirected to the email verification page or the next registration step.
