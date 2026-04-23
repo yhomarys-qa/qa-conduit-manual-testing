@@ -1,4 +1,4 @@
-# TC-009 - Article Title Accepts Special Characters Only
+# TC-009 - Article Title Accepts Special Characters
 
 ## Steps
 1. Open the Conduit application
