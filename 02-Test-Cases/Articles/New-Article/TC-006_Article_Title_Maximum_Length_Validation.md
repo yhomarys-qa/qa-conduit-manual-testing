@@ -1,12 +1,12 @@
-# TC-006 - Validação do Comprimento Máximo do Título do Artigo 
+# TC-006 - Article Title Maximum Length Validation
 
-## Etapas 
-1. Abra o aplicativo Conduit 
-2. Faça login com credenciais válidas 
-3. Navegue até "Novo Artigo" 
-4. Insira um título com mais de 240 caracteres 
-5. Preencha todos os outros campos obrigatórios com dados válidos 
-6. Clique em "Publicar Artigo" 
+## Steps
+1. Open the Conduit application
+2. Log in with valid credentials
+3. Navigate to "New Article"
+4. Enter a title with more than 240 characters
+5. Fill all other required fields with valid data
+6. Click on "Publish Article"
 
-## Resultado Esperado 
+## Expected Result
 The system should display a validation error or prevent the entry of additional data.
