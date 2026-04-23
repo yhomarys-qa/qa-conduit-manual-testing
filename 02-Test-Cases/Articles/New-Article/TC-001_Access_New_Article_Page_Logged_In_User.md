@@ -1,4 +1,4 @@
-# TC-NA-001 - Access New Article Page (Logged-in User)
+# TC-001 - Access New Article Page (Logged-in User)
 
 ## Steps
 1. Open the Conduit application
