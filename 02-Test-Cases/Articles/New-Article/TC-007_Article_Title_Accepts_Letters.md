@@ -9,4 +9,4 @@
 6. Click on "Publish Article."
 
 ## Expected Result
-The system should accept the title and be created successfully.
+The system should accept the title and be created successfully. 
