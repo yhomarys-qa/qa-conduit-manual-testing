@@ -6,4 +6,5 @@
 3. Click on the "Sign up" link
 
 ## Expected Result
-The user should be successfully redirected to the Registration (Sign Up) page.
+The user should be redirected to the Registration (Sign up) page.
+The registration form should be displayed correctly and fully loaded.
