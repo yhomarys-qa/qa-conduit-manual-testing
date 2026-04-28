@@ -1,4 +1,4 @@
-# TC-21 - Email must follow a valid format (local-part@domain.tld)
+# TC-21 - Email must follow a valid format (name@domain.main-domain)
 
 ## Steps
 1. Log in to the application with valid credentials
