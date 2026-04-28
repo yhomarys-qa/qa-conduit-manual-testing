@@ -1,4 +1,4 @@
-# TC-62 - User can log in using updated email after changing it in Settings
+# TC-62 - User can log in using updated email after changing it in settings
 
 ## Steps
 1. Log in to the application with valid credentials
