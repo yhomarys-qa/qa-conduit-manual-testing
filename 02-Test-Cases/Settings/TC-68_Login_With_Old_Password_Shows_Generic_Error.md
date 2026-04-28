@@ -9,5 +9,4 @@
 6. Attempt to log in using the same email and the old password
 
 ## Expected Result
-Login fails when using the old password
 A generic authentication error message is displayed (e.g., "Invalid credentials")
