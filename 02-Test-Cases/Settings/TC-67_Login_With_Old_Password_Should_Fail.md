@@ -10,4 +10,3 @@
 
 ## Expected Result
 Login is rejected when using the old password
-A generic authentication error message is displayed (e.g., "Invalid credentials")
