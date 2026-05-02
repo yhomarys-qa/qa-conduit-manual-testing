@@ -65,8 +65,11 @@ The testing covers the following main modules:
 
 Manual test execution is documented in:
 
-- 📈 [Smoke Test Execution Report](./05-Test-Execution-Reports/Smoke-Test-Execution.md)
-- 📈 [Regression Test Execution Report](./05-Test-Execution-Reports/Regression-Test-Execution.md)
+- 📈 [Smoke Test Execution Report](./05-Test-Execution-Reports/Smoke-Test-Execution.md)  
+  → Covers critical functionality validation
+
+- 📈 [Regression Test Execution Report](./05-Test-Execution-Reports/Regression-Test-Execution.md)  
+  → Covers full system behavior and stability
 
 ### ✔️ Included:
 
