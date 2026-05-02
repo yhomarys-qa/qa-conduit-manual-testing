@@ -21,97 +21,96 @@ The goal is to demonstrate my practical skills in:
 
 ---
 
-## 🧩 Application Under Test
-- Conduit Web Application (RealWorld project)
+## 🎯 Scope
+
+The testing covers the following main modules:
+
+- 🔐 Authentication (Login / Logout)
+- 📝 Article Creation
+- 🏠 Home Page
+- ⚙️ User Settings
 
 ---
 
-## 📂 Project Structure
+## 🗂️ Project Structure (Clickable)
 
-- [01 Test Plan](./01-Test-Plan)
-- [02 Test Cases](./02-Test-Cases)
-- [03 Test Execution Reports](./03-Test-Execution-Reports)
-- [04 Bug Reports](./04-Bug-Reports)
-- [05 Smoke Tests](./05-Smoke-Test-Suite)
-- [06 Regression Tests](./06-Regression-Test-Suite)
-- [07 Documentation](./07-Documentation)
-
----
-
-## 🧪 Testing Types Covered
-
-- Functional Testing  
-- UI Testing  
-- Smoke Testing  
-- Regression Testing  
+- 📁 [01-Test-Plan](./01-Test-Plan/)
+- 📁 [02-Test-Cases](./02-Test-Cases/)
+- 📁 [03-Smoke-Test-Suite](./03-Smoke-Test-Suite/)
+- 📁 [04-Regression-Test-Suite](./04-Regression-Test-Suite/)
+- 📁 [05-Test-Execution-Reports](./05-Test-Execution-Reports/)
+- 📁 [06-Bug-Reports](./06-Bug-Reports/)
+- 📁 [07-Documentation](./07-Documentation/)
 
 ---
 
-## 📌 Modules Tested
+## 🧪 Featured Test Cases
 
-- Login & Authentication  
-- Home Page  
-- New Article Creation  
-- User Settings  
+Here are some representative test cases:
 
----
-
-## 🧪 Sample Test Case
-
-**Test Case ID:** TC-001  
-**Title:** Login with valid credentials  
-
-**Preconditions:** User must be registered  
-
-**Steps:**
-1. Open login page
-2. Enter valid email
-3. Enter valid password
-4. Click login
-
-**Expected Result:** User is redirected to Home Page
+- 🔹 [Login – Valid Credentials](./02-Test-Cases/Login/)
+- 🔹 [Create Article – Valid Data](./02-Test-Cases/New-Article/)
+- 🔹 [Settings – Update User Info](./02-Test-Cases/Settings/)
 
 ---
 
-## 🐞 Sample Bug Report
+## 📊 Test Execution Reports
 
-**Bug ID:** BUG-001  
-**Title:** Login fails with valid credentials  
+Manual test execution is documented in:
 
-**Severity:** High  
-**Priority:** High  
+- 📈 [Smoke Test Execution Report](./05-Test-Execution-Reports/Smoke-Test-Execution.md)
+- 📈 [Regression Test Execution Report](./05-Test-Execution-Reports/Regression-Test-Execution.md)
 
-**Steps to Reproduce:**
-1. Go to login page
-2. Enter valid email and password
-3. Click login
+### ✔️ Included:
 
-**Expected Result:** User should be logged in successfully  
-**Actual Result:** System shows error message and login fails
-
----
-
-## 📸 Evidence
-
-![Login Error](./evidence/login-error.png)
+- Execution metrics  
+- Pass / Fail status  
+- Failed test cases  
+- Identified bugs  
+- Quality assessment  
 
 ---
 
-## 🛠️ Tools & Methodology
+## 🐞 Bug Reports (Examples)
+
+Some of the bugs identified during testing:
+
+- 🐛 [Email Validation Issue](./06-Bug-Reports/)
+- 🐛 [Required Field Not Validated](./06-Bug-Reports/)
+- 🐛 [Invalid Password Accepted](./06-Bug-Reports/)
+
+---
+
+## 🧠 Test Approach
+
+The testing approach includes:
+
+- ✔️ Functional testing  
+- ✔️ Negative testing  
+- ✔️ Field validation  
+- ✔️ Navigation testing  
+- ✔️ System behavior analysis  
+
+---
+
+## 📈 Key Highlights
+
+- ✔️ 150+ test cases created  
+- ✔️ Coverage of critical functionalities  
+- ✔️ Structured execution (Smoke & Regression)  
+- ✔️ Multiple real bugs identified  
+- ✔️ Organization based on industry tools (Jira / TestRail)  
+
+---
+
+## 🚀 Tools & Concepts
 
 - Manual Testing  
-- Agile Methodology  
-- Test Case Design Techniques  
-- Defect Reporting Practices  
-
----
-
-## 📊 Key Highlights
-
-- Expanding suite of manual test cases covering key application features  
-- Structured QA documentation  
-- Real-world testing simulation  
-- Organized test suites following QA standards  
+- Test Case Design  
+- Smoke Testing  
+- Regression Testing  
+- Bug Tracking  
+- Git & GitHub  
 
 ---
 
