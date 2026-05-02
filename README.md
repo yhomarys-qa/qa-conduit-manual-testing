@@ -11,7 +11,13 @@ It was created as part of my QA portfolio to simulate real-world testing activit
 ---
 
 ## 🎯 Objective
-To apply and demonstrate manual testing skills including test design, execution, and defect reporting based on real-world QA scenarios.
+The goal is to demonstrate my practical skills in:
+
+- Requirements analysis  
+- Test case design  
+- Test execution (Smoke & Regression)  
+- Bug identification and reporting  
+- Test organization following industry best practices  
 
 ---
 
