@@ -122,3 +122,10 @@ This repository is part of my transition into a Manual QA Engineer role, showcas
 
 ## 📫 Status
 📌 In progress – continuously improving and expanding test coverage.
+
+---
+
+## 📬 Contact
+
+- LinkedIn: https://www.linkedin.com/in/yhomarys-qa
+- Email: yosmaryspinzon588@gmail.com
