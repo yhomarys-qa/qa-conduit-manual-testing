@@ -46,11 +46,18 @@ The testing covers the following main modules:
 
 ## 🧪 Featured Test Cases
 
-Here are some representative test cases:
+- 🔐 Authentication:
+  - [Login Test Cases](./02-Test-Cases/Authentication/Login/)
+  - [Registration Test Cases](./02-Test-Cases/Authentication/Registration/)
 
-- 🔹 [Login – Valid Credentials](./02-Test-Cases/Login/)
-- 🔹 [Create Article – Valid Data](./02-Test-Cases/New-Article/)
-- 🔹 [Settings – Update User Info](./02-Test-Cases/Settings/)
+- 📝 Articles:
+  - [New Article Test Cases](./02-Test-Cases/Articles/New-Article/)
+
+- 🏠 Home:
+  - [Home Page Test Cases](./02-Test-Cases/Home/)
+
+- ⚙️ Settings:
+  - [Settings Test Cases](./02-Test-Cases/Settings/)
 
 ---
 
