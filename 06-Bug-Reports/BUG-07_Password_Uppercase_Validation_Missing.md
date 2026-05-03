@@ -46,3 +46,4 @@ Video attached showing successful registration with a password without uppercase
 
 Test password used: `usuario20#`
 
+https://1drv.ms/v/c/908f21af6642c0ae/IQC70EbQqUPKS5Bobe4a8YC3Ad8IcqbsMKqq9JGsGFW9YSw?e=R0Ht5w
