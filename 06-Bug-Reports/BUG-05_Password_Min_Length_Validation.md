@@ -44,3 +44,4 @@ Critical
 ## 📎 Evidence
 Video attached showing that the system allows registration with a 1-character password without validation error.
 
+https://1drv.ms/v/c/908f21af6642c0ae/IQCKWUsCMZpsRaHmJt98rwLKAWnl_DF8VGMdFshlHM5QNxg?e=5LQbd2
