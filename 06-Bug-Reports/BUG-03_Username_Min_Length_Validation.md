@@ -13,7 +13,7 @@ The system allows user registration with a username containing only 2 characters
 
 ## 🔁 Steps to Reproduce
 1. Access the registration page  
-2. In the "Username" field, enter a 2-character value (e.g., `ab`)  
+2. In the "Username" field, enter a 2-character value (e.g., `ac`)  
 3. Fill in all other required fields with valid data  
 4. Click the "Register" button  
 
@@ -44,4 +44,5 @@ High
 ## 📎 Evidence
 Screenshot showing successful registration with a 2-character username.
 
-<img width="1915" height="1090" alt="image-20260302-144207" src="https://github.com/user-attachments/assets/619dadc4-0480-4abe-a88e-f55558a1208d" />
+<img width="1918" height="1143" alt="image" src="https://github.com/user-attachments/assets/151bb04a-8426-4188-a269-acf9fc261776" />
+
