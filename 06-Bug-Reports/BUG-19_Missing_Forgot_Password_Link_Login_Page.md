@@ -43,4 +43,4 @@ High
 ## 📎 Evidence
 Screenshot showing absence of the "Forgot your password?" link on the login page.
 
-<img width="1918" height="1145" alt="image-20260305-193340" src="https://github.com/user-attachments/assets/637b6a4b-d589-4e11-92f5-d58d06b3771b" />
+<img width="1917" height="1152" alt="image" src="https://github.com/user-attachments/assets/2f29cd04-c017-45b1-89b6-d14230edfce4" />
