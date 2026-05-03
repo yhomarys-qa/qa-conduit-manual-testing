@@ -54,6 +54,6 @@ High
 ## 📎 Evidence
 Screenshot attached showing duplicated validation messages.
 
-![BUG-01 Evidence](BUG-01.image-20260228-171507.png)
+![BUG-01 Evidence](image-20260228-171507.png)
 
 
