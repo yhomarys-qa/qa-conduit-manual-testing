@@ -43,7 +43,7 @@ The testing covers the following main modules:
 - 📁 [04-Regression-Test-Suite](./04-Regression-Test-Suite/)
 - 📁 [05-Test-Execution-Reports](./05-Test-Execution-Reports/)
 - 📁 [06-Bug-Reports](./06-Bug-Reports/)
-- 📁 [07-Documentation](./07-Documentation/)
+- 📁 [07-Requirements](./07-Requirements/)
 
 ---
 
