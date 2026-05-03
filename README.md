@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Status-Completed-success" />
   <img src="https://img.shields.io/badge/Test_Cases-150%2B-green" />
   <img src="https://img.shields.io/badge/Bug_Reports-20%2B-red" />
-</p>
+</p> 
 
 ## 📌 Overview
 This project demonstrates manual QA testing practices applied to the Conduit (RealWorld) web application.  
