@@ -76,5 +76,3 @@ The system is partially stable.
 Core navigation, login, and home modules are functional.
 
 However, the registration flow is broken due to missing email verification and incorrect redirection.
-
-👉 Recommendation: Fix registration flow before proceeding to production testing.
