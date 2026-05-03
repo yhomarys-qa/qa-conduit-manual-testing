@@ -54,6 +54,7 @@ High
 ## 📎 Evidence
 Screenshot attached showing duplicated validation messages.
 
-![BUG-01 Evidence](image-20260228-171507.png)
+![BUG-01 Evidence](<img width="1912" height="1145" alt="image-20260228-171507" src="https://github.com/user-attachments/assets/71d0266a-c065-46f1-b536-5f37ba5a6084" />
+)
 
 
