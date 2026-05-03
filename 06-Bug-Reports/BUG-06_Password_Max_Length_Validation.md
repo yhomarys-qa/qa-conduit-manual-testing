@@ -44,3 +44,4 @@ High
 ## 📎 Evidence
 Video attached showing successful registration with a password longer than 30 characters without validation error.
 
+https://1drv.ms/v/c/908f21af6642c0ae/IQDqzXCx4jFGQqj2sNs2x6drAeHCoKD6bBctp0JwmytiheA?e=ZZGHwE
