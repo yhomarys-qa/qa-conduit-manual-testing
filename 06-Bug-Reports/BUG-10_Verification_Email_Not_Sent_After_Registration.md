@@ -53,4 +53,5 @@ Screenshot showing successful registration.
 
 Screenshot of the email inbox showing the absence of the verification message.
 
+
 <img width="1901" height="1093" alt="image-20260304-140216" src="https://github.com/user-attachments/assets/55e151b2-498f-4eb7-83cc-60c0a6185faa" />
