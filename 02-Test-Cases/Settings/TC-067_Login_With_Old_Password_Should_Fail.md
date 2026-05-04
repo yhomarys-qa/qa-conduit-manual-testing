@@ -1,4 +1,4 @@
-# TC-67 - User cannot log in using the old password after password update
+# TC-067 - User cannot log in using the old password after password update
 
 ## Steps
 1. Log in to the application with valid credentials
