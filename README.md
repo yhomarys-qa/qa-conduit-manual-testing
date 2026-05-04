@@ -89,6 +89,7 @@ Some of the bugs identified during testing:
 - 🐛 [Registration Email Invalid Characters](./06-Bug-Reports/BUG-02_Registration_Email_Invalid_Characters.md)
 - 🐛 [Registration Verification Email Not Sent](./06-Bug-Reports/BUG-10_Registration_Verification_Email_Not_Sent.md)
 - 🐛 [Login Missing Forgot Password Link](./06-Bug-Reports/BUG-19_Login_Missing_Forgot_Password_Link.md)
+
 ---
 
 ## 🧠 Test Approach
