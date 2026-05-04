@@ -119,7 +119,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | BUG-005 | Password Accepts Less Than 8 Characters |
 | BUG-006 | Password Max Length Not Enforced |
 | BUG-007 | Password Uppercase Requirement Not Enforced |
-| BUG-008 | Password complexity not enforced |
+| BUG-008 | Password Number & Special Character Requirements Not Enforced |
 | BUG-009 | Confirm password field missing |
 | BUG-010 | Email verification not sent |
 | BUG-011 | Registration flow bypasses verification |
