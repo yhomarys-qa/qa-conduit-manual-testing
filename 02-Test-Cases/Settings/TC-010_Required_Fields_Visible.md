@@ -1,4 +1,4 @@
-# TC-10 - Required fields "Username" and "Email" are visible on the Settings page
+# TC-010 - Required fields "Username" and "Email" are visible on the Settings page
 
 ## Steps
 1. Log in to the application with valid credentials
