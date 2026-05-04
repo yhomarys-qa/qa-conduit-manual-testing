@@ -1,4 +1,4 @@
-# TC-29 - Bio field is optional
+# TC-029 - Bio field is optional
 
 ## Steps
 1. Log in to the application with valid credentials
