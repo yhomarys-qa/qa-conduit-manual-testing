@@ -1,4 +1,4 @@
-# TC-28 - System rejects non-URL values in Profile Picture URL field
+# TC-028 - System rejects non-URL values in Profile Picture URL field
 
 ## Steps
 1. Log in to the application with valid credentials
