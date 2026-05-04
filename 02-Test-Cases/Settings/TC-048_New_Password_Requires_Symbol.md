@@ -1,4 +1,4 @@
-# TC-48 - New password must contain at least one special character
+# TC-048 - New password must contain at least one special character
 
 ## Steps
 1. Log in to the application with valid credentials
