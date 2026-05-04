@@ -1,4 +1,4 @@
-# TC-27 - Profile Picture URL accepts valid URLs only
+# TC-027 - Profile Picture URL accepts valid URLs only
 
 ## Steps
 1. Log in to the application with valid credentials
