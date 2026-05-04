@@ -1,4 +1,4 @@
-# 🐞 BUG-09 - Confirm Password Field Is Not Displayed in Registration Form
+# 🐞 BUG-009 - Confirm Password Field Is Not Displayed in Registration Form
 
 ## 📌 Summary
 The registration form does not display the required "Confirm Password" field, which is essential for validating password confirmation during user registration.
