@@ -128,7 +128,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | BUG-018 | Missing “Forgot Password” Link on Login Page |
 | BUG-019 | Missing “Send Temporary Password” Link After Invalid Login |
 | BUG-020 | New Password Accepts Below Minimum Length |
-| BUG-021 | New Password Uppercase Requirement Not Enforced |
+| BUG-021 | New Password Allows Submission Without Uppercase Letter |
 
 ---
 
