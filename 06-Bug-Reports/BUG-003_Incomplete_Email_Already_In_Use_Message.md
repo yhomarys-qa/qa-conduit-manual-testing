@@ -1,4 +1,4 @@
-# 🐞 BUG-04 - Incomplete Error Message for Already Registered Email
+# 🐞 BUG-003 - Incomplete Error Message for Already Registered Email
 
 ## 📌 Summary
 The system displays an incomplete error message when a user attempts to register with an email address that is already in use. The second part of the message is missing.
