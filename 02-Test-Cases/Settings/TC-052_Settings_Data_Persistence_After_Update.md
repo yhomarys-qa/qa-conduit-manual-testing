@@ -1,4 +1,4 @@
-# TC-52 - User settings changes persist after successful update
+# TC-052 - User settings changes persist after successful update
 
 ## Steps
 1. Log in to the application with valid credentials
