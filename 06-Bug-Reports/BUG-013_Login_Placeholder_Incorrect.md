@@ -1,4 +1,4 @@
-# 🐞 BUG-13 - Incorrect Placeholder in “Email or Username” Field
+# 🐞 BUG-013 - Incorrect Placeholder in “Email or Username” Field
 
 ## 📌 Summary
 The login field labeled "Email or Username" displays an incorrect placeholder, showing only "Email" instead of indicating that both username and email are accepted.
