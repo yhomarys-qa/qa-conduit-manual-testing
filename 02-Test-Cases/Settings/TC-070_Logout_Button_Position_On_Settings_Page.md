@@ -1,4 +1,4 @@
-# TC-70 - Logout button is positioned below form fields and update button on Settings page
+# TC-070 - Logout button is positioned below form fields and update button on Settings page
 
 ## Steps
 1. Log in to the application with valid credentials
