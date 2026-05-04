@@ -1,4 +1,4 @@
-# 🐞 BUG-12 - Login Field Does Not Accept Username (Only Email Format Allowed)
+# 🐞 BUG-012 - Login Field Does Not Accept Username (Only Email Format Allowed)
 
 ## 📌 Summary
 The login field labeled "Email or Username" incorrectly restricts input to email format only, preventing users from logging in using a username.
