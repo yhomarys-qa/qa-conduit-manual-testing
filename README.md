@@ -1,6 +1,9 @@
 # 🧪 Conduit Web Application – Manual QA Testing Project
 
+[![QA](https://img.shields.io/badge/QA-Manual_Testing-blue)](#)
+[![Status](https://img.shields.io/badge/Status-Completed-success)](#)
 [![Test Cases](https://img.shields.io/badge/Test_Cases-150%2B-green)](./02-Test-Cases/)
+[![Bug Reports](https://img.shields.io/badge/Bug_Reports-20%2B-red)](./06-Bug-Reports/)
 
 ## 📌 Overview
 This project demonstrates manual QA testing practices applied to the Conduit (RealWorld) web application.  
