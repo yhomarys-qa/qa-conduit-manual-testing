@@ -1,4 +1,4 @@
-# 🐞 BUG-10 - Verification Email Is Not Sent After Successful Registration
+# 🐞 BUG-010 - Verification Email Is Not Sent After Successful Registration
 
 ## 📌 Summary
 The system does not send a verification email after successful user registration, preventing email-based verification from being completed.
