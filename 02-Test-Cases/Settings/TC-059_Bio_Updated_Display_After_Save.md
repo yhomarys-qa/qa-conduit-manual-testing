@@ -1,4 +1,4 @@
-# TC-59 - Updated bio is displayed correctly after saving settings
+# TC-059 - Updated bio is displayed correctly after saving settings
 
 ## Steps
 1. Log in to the application with valid credentials
