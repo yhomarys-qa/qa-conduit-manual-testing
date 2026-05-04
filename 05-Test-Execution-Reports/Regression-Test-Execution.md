@@ -22,19 +22,19 @@ All test cases were executed, and results are based on actual observed behavior 
 | TC-002 | SignUp link visibility | PASS | - |
 | TC-008 | Username required field | PASS | - |
 | TC-009 | The username must be unique | PASS | - |
-| TC-010 | Username min length | FAIL | BUG-01 |
-| TC-012 | The username must begin with a letter | FAIL | BUG-02 |
+| TC-010 | Username min length | FAIL | BUG-001 |
+| TC-012 | The username must begin with a letter | FAIL | BUG-002 |
 | TC-018 | Email required field | PASS | - |
-| TC-020 | The email address must be unique | FAIL | BUG-03 |
-| TC-021 | Email allows special characters | FAIL | BUG-04 |
-| TC-025 | Password min length | FAIL | BUG-05 |
-| TC-026 | Password max length | FAIL | BUG-06 |
-| TC-027 | Password uppercase rule | FAIL | BUG-07 |
-| TC-028 | The password must contain a number | FAIL | BUG-08 |
-| TC-029 | The password must contain a special character | FAIL | BUG-08 |
-| TC-030 | Confirm password field | FAIL | BUG-09 |
-| TC-037 | Registration completed successfully | FAIL | BUG-10 |
-| TC-038 | Redirect to "Complete Registration" | FAIL | BUG-11 |
+| TC-020 | The email address must be unique | FAIL | BUG-003 |
+| TC-021 | Email allows special characters | FAIL | BUG-004 |
+| TC-025 | Password min length | FAIL | BUG-005 |
+| TC-026 | Password max length | FAIL | BUG-006 |
+| TC-027 | Password uppercase rule | FAIL | BUG-007 |
+| TC-028 | The password must contain a number | FAIL | BUG-008 |
+| TC-029 | The password must contain a special character | FAIL | BUG-008 |
+| TC-030 | Confirm password field | FAIL | BUG-009 |
+| TC-037 | Registration completed successfully | FAIL | BUG-010 |
+| TC-038 | Redirect to "Complete Registration" | FAIL | BUG-011 |
 
 ---
 
@@ -44,11 +44,11 @@ All test cases were executed, and results are based on actual observed behavior 
 |------|-----------|--------|---------------|
 | TC-001 | Access Login Page | PASS | - |
 | TC-003 | Login with valid email | PASS | - |
-| TC-004 | Login with username | FAIL | BUG-12 |
+| TC-004 | Login with username | FAIL | BUG-012 |
 | TC-005 | Empty email validation | PASS | - |
-| TC-014 | Invalid password validation | FAIL | BUG-17 |
-| TC-016 | Forgot your password link visible | FAIL | BUG-18 |
-| TC-017 | Redirect to password recovery | FAIL | BUG-19 |
+| TC-014 | Invalid password validation | FAIL | BUG-017 |
+| TC-016 | Forgot your password link visible | FAIL | BUG-018 |
+| TC-017 | Redirect to password recovery | FAIL | BUG-019 |
 | TC-018 | Login button displayed | PASS | - |
 | TC-020 | Login using Enter key | PASS | - |
 
@@ -86,16 +86,16 @@ All test cases were executed, and results are based on actual observed behavior 
 
 | TC ID | Test Case | Status | Bug Reference |
 |------|-----------|--------|---------------|
-| TC-01 | Access Settings page | PASS | - |
-| TC-02 | Edit profile | PASS | - |
-| TC-03 | Save profile changes | PASS | - |
-| TC-11 | Username mandatory | PASS | - |
-| TC-20 | Email mandatory | PASS | - |
-| TC-41 | Password min length | FAIL | BUG-20 |
-| TC-44 | Password uppercase rule | FAIL | BUG-21 |
-| TC-50 | Update settings valid data | PASS | - |
-| TC-71 | Logout redirects home | PASS | - |
-| TC-72 | Session termination | PASS | - |
+| TC-001 | Access Settings page | PASS | - |
+| TC-002 | Edit profile | PASS | - |
+| TC-003 | Save profile changes | PASS | - |
+| TC-011 | Username mandatory | PASS | - |
+| TC-020 | Email mandatory | PASS | - |
+| TC-041 | Password min length | FAIL | BUG-020 |
+| TC-044 | Password uppercase rule | FAIL | BUG-021 |
+| TC-050 | Update settings valid data | PASS | - |
+| TC-071 | Logout redirects home | PASS | - |
+| TC-072 | Session termination | PASS | - |
 
 ---
 
@@ -112,20 +112,20 @@ All test cases were executed, and results are based on actual observed behavior 
 
 | Bug ID | Description |
 |--------|-------------|
-| BUG-01 | Username validation duplicated/inconsistent rules |
-| BUG-02 | Email allows invalid special characters |
-| BUG-03 | Username min length not enforced |
-| BUG-05 | Password min length not enforced |
-| BUG-06 | Password max length not enforced |
-| BUG-07 | Password uppercase rule missing |
-| BUG-08 | Password complexity not enforced |
-| BUG-09 | Confirm password field missing |
-| BUG-10 | Email verification not sent |
-| BUG-11 | Registration flow bypasses verification |
-| BUG-12 | Login does not accept username |
-| BUG-17 | Incorrect login error message |
-| BUG-18 | Temporary Password Link Not Displayed |
-| BUG-19 | Forgot password link missing |
+| BUG-001 | Username validation duplicated/inconsistent rules |
+| BUG-002 | Email allows invalid special characters |
+| BUG-003 | Username min length not enforced |
+| BUG-005 | Password min length not enforced |
+| BUG-006 | Password max length not enforced |
+| BUG-007 | Password uppercase rule missing |
+| BUG-008 | Password complexity not enforced |
+| BUG-009 | Confirm password field missing |
+| BUG-010 | Email verification not sent |
+| BUG-011 | Registration flow bypasses verification |
+| BUG-012 | Login does not accept username |
+| BUG-017 | Incorrect login error message |
+| BUG-018 | Temporary Password Link Not Displayed |
+| BUG-019 | Forgot password link missing |
 
 ---
 
