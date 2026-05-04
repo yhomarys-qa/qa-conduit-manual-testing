@@ -1,10 +1,10 @@
 # 🧪 Conduit Web Application – Manual QA Testing Project
 
 <p align="left">
-  <img alt="QA" src="https://img.shields.io/badge/QA-Manual_Testing-blue">
-  <img alt="Status" src="https://img.shields.io/badge/Status-Completed-success">
-  <img alt="Test Cases" src="https://img.shields.io/badge/Test_Cases-150%2B-green">
-  <img alt="Bug Reports" src="https://img.shields.io/badge/Bug_Reports-20%2B-red">
+  <img alt="QA" src="https://img.shields.io/badge/QA-Manual_Testing-blue" draggable="false">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Completed-success" draggable="false">
+  <img alt="Test Cases" src="https://img.shields.io/badge/Test_Cases-150%2B-green" draggable="false">
+  <img alt="Bug Reports" src="https://img.shields.io/badge/Bug_Reports-20%2B-red" draggable="false">
 </p>
 
 ## 📌 Overview
