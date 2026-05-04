@@ -1,4 +1,4 @@
-# TC-49 - New Password field masks user input
+# TC-049 - New Password field masks user input
 
 ## Steps
 1. Log in to the application with valid credentials
