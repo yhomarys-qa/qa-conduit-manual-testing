@@ -1,4 +1,4 @@
-# TC-57 - Username is displayed in the top-right header after update
+# TC-057 - Username is displayed in the top-right header after update
 
 ## Steps
 1. Log in to the application with valid credentials
