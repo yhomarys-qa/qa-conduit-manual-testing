@@ -88,7 +88,7 @@ Some of the bugs identified during testing:
 
 - 🐛 [BUG-02 | Email - Special Characters](./06-Bug-Reports/BUG-02_Email_Special_Characters.md)
 - 🐛 [BUG-10 | Registration - Verification Email Not Sent](./06-Bug-Reports/BUG-10_Verification_Email_Not_Sent_After_Registration.md)
-- 🐛 [BUG-19 | Login - Missing Forgot Password Link](./06-Bug-Reports/BUG-19_Missing_Forgot_Password_Link_Login_Page.md)
+- 🐛 [BUG-19 | Login - Forgot Your Password Link](./06-Bug-Reports/BUG-19_Missing_Forgot_Password_Link_Login_Page.md)
 
 ---
 
