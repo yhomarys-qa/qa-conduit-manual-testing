@@ -1,4 +1,4 @@
-# TC-18 - Username does not allow non-printable or invalid whitespace characters
+# TC-018 - Username does not allow non-printable or invalid whitespace characters
 
 ## Steps
 1. Log in to the application with valid credentials
