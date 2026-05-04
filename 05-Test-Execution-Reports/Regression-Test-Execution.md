@@ -92,7 +92,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | TC-11 | Username mandatory | PASS | - |
 | TC-20 | Email mandatory | PASS | - |
 | TC-41 | Password min length | FAIL | BUG-20 |
-| TC-44 | Password uppercase rule | FAIL | BUG-07 |
+| TC-44 | Password uppercase rule | FAIL | BUG-21 |
 | TC-50 | Update settings valid data | PASS | - |
 | TC-71 | Logout redirects home | PASS | - |
 | TC-72 | Session termination | PASS | - |
