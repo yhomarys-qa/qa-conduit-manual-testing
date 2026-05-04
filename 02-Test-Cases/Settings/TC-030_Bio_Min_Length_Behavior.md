@@ -1,4 +1,4 @@
-# TC-30 - Bio field accepts single character input
+# TC-030 - Bio field accepts single character input
 
 ## Steps
 1. Log in to the application with valid credentials
