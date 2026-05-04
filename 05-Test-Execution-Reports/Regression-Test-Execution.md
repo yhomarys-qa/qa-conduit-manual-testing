@@ -32,7 +32,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | TC-027 | Password uppercase rule | FAIL | BUG-007 |
 | TC-028 | The password must contain a number | FAIL | BUG-008 |
 | TC-029 | The password must contain a special character | FAIL | BUG-008 |
-| TC-030 | Confirm password field | FAIL | BUG-009 |
+| TC-030 | Visibility Confirm password field | FAIL | BUG-009 |
 | TC-037 | Registration completed successfully | FAIL | BUG-010 |
 | TC-038 | Redirect to "Complete Registration" | FAIL | BUG-011 |
 
