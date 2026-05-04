@@ -1,4 +1,4 @@
-# 🐞 BUG-07 - Password Allows Registration Without Uppercase Letters
+# 🐞 BUG-007 - Password Allows Registration Without Uppercase Letters
 
 ## 📌 Summary
 The system allows user registration with a password that does not contain uppercase letters, indicating that the uppercase validation rule is not being enforced.
