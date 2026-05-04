@@ -1,4 +1,4 @@
-# TC-11 - Username field is mandatory
+# TC-011 - Username field is mandatory
 
 ## Steps
 1. Log in to the application with valid credentials
