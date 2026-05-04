@@ -1,4 +1,4 @@
-# TC-04 - User can update a single profile field without affecting others
+# TC-004 - User can update a single profile field without affecting others
 
 ## Steps
 1. Log in to the application with valid credentials
