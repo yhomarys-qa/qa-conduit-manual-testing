@@ -1,4 +1,4 @@
-# TC-60 - User bio is displayed below the username in the profile page
+# TC-060 - User bio is displayed below the username in the profile page
 
 ## Steps
 1. Log in to the application with valid credentials
