@@ -6,5 +6,5 @@
 3. Click Sign In
 
 ## Expected Result
-Message displayed:
-"Invalid password! Check keyboard layout or Caps Lock..."
+The system should display a more detailed message, such as:
+> “Incorrect password! Check your keyboard layout or if Caps Lock is on. Send a temporary password to your email?”
