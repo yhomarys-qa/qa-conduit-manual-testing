@@ -86,7 +86,9 @@ Manual test execution is documented in:
 
 Some of the bugs identified during testing:
 
-./06-Bug-Reports/BUG-02_Registration_Email_Invalid_Characters.md
+- 🐛 [Email Validation Issue](./06-Bug-Reports/BUG-02_Registration_Email_Invalid_Characters.md)
+- 🐛 [Verification Email Not Sent](./06-Bug-Reports/BUG-10_Registration_Verification_Email_Not_Sent.md)
+- 🐛 [Forgot Password Link Not Displayed](./06-Bug-Reports/BUG-19_Login_Missing_Forgot_Password_Link.md)
 ---
 
 ## 🧠 Test Approach
