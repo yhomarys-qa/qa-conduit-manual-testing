@@ -1,4 +1,4 @@
-# TC-45 - New password accepts numeric characters
+# TC-045 - New password accepts numeric characters
 
 ## Steps
 1. Log in to the application with valid credentials
