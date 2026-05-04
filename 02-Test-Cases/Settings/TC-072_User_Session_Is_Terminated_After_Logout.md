@@ -1,4 +1,4 @@
-# TC-72 - User session is properly terminated after clicking logout button
+# TC-072 - User session is properly terminated after clicking logout button
 
 ## Steps
 1. Log in to the application with valid credentials
