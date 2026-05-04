@@ -1,4 +1,4 @@
-# TC-46 - New password must contain at least one numeric character
+# TC-046 - New password must contain at least one numeric character
 
 ## Steps
 1. Log in to the application with valid credentials
