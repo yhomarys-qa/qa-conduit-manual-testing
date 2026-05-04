@@ -1,4 +1,4 @@
-# TC-32 - Bio field accepts alphabetic characters
+# TC-032 - Bio field accepts alphabetic characters
 
 ## Steps
 1. Log in to the application with valid credentials
