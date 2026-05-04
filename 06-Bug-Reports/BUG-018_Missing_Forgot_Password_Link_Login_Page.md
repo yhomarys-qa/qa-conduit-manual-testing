@@ -1,4 +1,4 @@
-# 🐞 BUG-19 - “Forgot Your Password?” Link Not Displayed on Login Page
+# 🐞 BUG-018 - “Forgot Your Password?” Link Not Displayed on Login Page
 
 ## 📌 Summary
 The login page does not display the "Forgot your password?" link, preventing users from accessing the password recovery flow.
