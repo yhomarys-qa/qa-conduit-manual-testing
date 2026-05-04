@@ -1,4 +1,4 @@
-# 🐞 BUG-16 - Authenticated User Can Access Login Page Instead of Being Redirected
+# 🐞 BUG-016 - Authenticated User Can Access Login Page Instead of Being Redirected
 
 ## 📌 Summary
 The system allows an authenticated user to access the login page instead of automatically redirecting them to the home page or user dashboard.
