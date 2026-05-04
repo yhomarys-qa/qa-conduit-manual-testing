@@ -1,4 +1,4 @@
-# 🐞 BUG-17 - Incorrect Error Message Displayed for Invalid Password
+# 🐞 BUG-017 - Incorrect Error Message Displayed for Invalid Password
 
 ## 📌 Summary
 The system displays a generic error message instead of the expected specific error message when an invalid password is entered during login.
