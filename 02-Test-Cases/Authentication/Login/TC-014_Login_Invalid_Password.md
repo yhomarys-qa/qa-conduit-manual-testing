@@ -6,5 +6,5 @@
 3. Click Sign In
 
 ## Expected Result
-The system should display a more detailed message, such as:
+The system should display a message, for example:
 > “Incorrect password! Check your keyboard layout or if Caps Lock is on. Send a temporary password to your email?”
