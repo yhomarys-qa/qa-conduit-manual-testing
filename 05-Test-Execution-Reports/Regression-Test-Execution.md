@@ -60,7 +60,7 @@ All test cases were executed, and results are based on actual observed behavior 
 |------|-----------|--------|---------------|
 | TC-001 | Access New Article page | PASS | - |
 | TC-002 | Access without authentication | PASS | - |
-| TC-003 | Title required validation | PASS | - |
+| TC-003 | Article Title is a Required Field | PASS | - |
 | TC-005 | Title min length | PASS | - |
 | TC-013 | Description required | PASS | - |
 | TC-022 | Body required | PASS | - |
