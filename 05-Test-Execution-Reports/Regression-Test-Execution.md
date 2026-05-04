@@ -14,22 +14,6 @@ All test cases were executed, and results are based on actual observed behavior 
 
 ---
 
-# 🔐 Authentication – Login
-
-| TC ID | Test Case | Status | Bug Reference |
-|------|-----------|--------|---------------|
-| TC-001 | Access Login Page | PASS | - |
-| TC-003 | Login with valid email | PASS | - |
-| TC-004 | Login with username | FAIL | BUG-12 |
-| TC-005 | Empty email validation | PASS | - |
-| TC-014 | Invalid password validation | FAIL | BUG-17 |
-| TC-016 | Forgot your password link visible | FAIL | BUG-18 |
-| TC-017 | Redirect to password recovery | FAIL | BUG-19 |
-| TC-018 | Login button displayed | PASS | - |
-| TC-020 | Login using Enter key | PASS | - |
-
----
-
 # 🧾 Authentication – Registration
 
 | TC ID | Test Case | Status | Bug Reference |
@@ -53,6 +37,23 @@ All test cases were executed, and results are based on actual observed behavior 
 | TC-038 | Redirect to "Complete Registration" | FAIL | BUG-11 |
 
 ---
+
+# 🔐 Authentication – Login
+
+| TC ID | Test Case | Status | Bug Reference |
+|------|-----------|--------|---------------|
+| TC-001 | Access Login Page | PASS | - |
+| TC-003 | Login with valid email | PASS | - |
+| TC-004 | Login with username | FAIL | BUG-12 |
+| TC-005 | Empty email validation | PASS | - |
+| TC-014 | Invalid password validation | FAIL | BUG-17 |
+| TC-016 | Forgot your password link visible | FAIL | BUG-18 |
+| TC-017 | Redirect to password recovery | FAIL | BUG-19 |
+| TC-018 | Login button displayed | PASS | - |
+| TC-020 | Login using Enter key | PASS | - |
+
+---
+
 
 # 📝 Articles – New Article
 
