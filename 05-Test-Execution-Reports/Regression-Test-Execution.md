@@ -36,19 +36,21 @@ All test cases were executed, and results are based on actual observed behavior 
 |------|-----------|--------|---------------|
 | TC-001 | Access Registration Page | PASS | - |
 | TC-002 | SignUp link visibility | PASS | - |
-| TC-003 | Username validation rules | FAIL | BUG-01 |
 | TC-008 | Username required field | PASS | - |
-| TC-009 | Username uniqueness | PASS | - |
-| TC-010 | Username min length | FAIL | BUG-03 |
+| TC-009 | The username must be unique | PASS | - |
+| TC-010 | Username min length | FAIL | BUG-01 |
+| TC-012 | The username must begin with a letter | FAIL | BUG-02 |
 | TC-018 | Email required field | PASS | - |
-| TC-019 | Email format validation | FAIL | BUG-02 |
+| TC-020 | The email address must be unique | FAIL | BUG-03 |
+| TC-021 | Email allows special characters | FAIL | BUG-04 |
 | TC-025 | Password min length | FAIL | BUG-05 |
 | TC-026 | Password max length | FAIL | BUG-06 |
 | TC-027 | Password uppercase rule | FAIL | BUG-07 |
-| TC-029 | Password complexity rules | FAIL | BUG-08 |
+| TC-028 | The password must contain a number | FAIL | BUG-08 |
+| TC-029 | The password must contain a special character | FAIL | BUG-08 |
 | TC-030 | Confirm password field | FAIL | BUG-09 |
-| TC-037 | Successful registration | FAIL | BUG-11 |
-| TC-038 | Email verification sent | FAIL | BUG-10 |
+| TC-037 | Registration completed successfully | FAIL | BUG-10 |
+| TC-038 | Redirect to "Complete Registration" | FAIL | BUG-11 |
 
 ---
 
