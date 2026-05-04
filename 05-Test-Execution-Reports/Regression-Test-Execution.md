@@ -121,7 +121,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | BUG-007 | Password Uppercase Requirement Not Enforced |
 | BUG-008 | Password Number & Special Character Requirements Not Enforced |
 | BUG-009 | Confirm Password Field Not Displayed |
-| BUG-010 | Email verification not sent |
+| BUG-010 | Verification Email Not Sent |
 | BUG-011 | Registration flow bypasses verification |
 | BUG-012 | Login does not accept username |
 | BUG-017 | Incorrect login error message |
