@@ -1,4 +1,4 @@
-# TC-19 - Username comparison is case-insensitive
+# TC-019 - Username comparison is case-insensitive
 
 ## Steps
 1. Log in to the application with valid credentials
