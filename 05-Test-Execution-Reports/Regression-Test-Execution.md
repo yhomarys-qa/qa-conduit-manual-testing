@@ -122,7 +122,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | BUG-11 | Registration flow bypasses verification |
 | BUG-12 | Login does not accept username |
 | BUG-17 | Incorrect login error message |
-| BUG-18 | Incorrect login error message |
+| BUG-18 | Temporary Password Link Not Displayed |
 | BUG-19 | Forgot password link missing |
 
 ---
