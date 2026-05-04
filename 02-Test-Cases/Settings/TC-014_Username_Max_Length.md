@@ -1,4 +1,4 @@
-# TC-14 - Username must have a maximum length of 40 characters
+# TC-014 - Username must have a maximum length of 40 characters
 
 ## Steps
 1. Log in to the application with valid credentials
