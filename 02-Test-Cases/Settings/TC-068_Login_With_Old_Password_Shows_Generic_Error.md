@@ -1,4 +1,4 @@
-# TC-68 - Appropriate error message is displayed when logging in with an old password
+# TC-068 - Appropriate error message is displayed when logging in with an old password
 
 ## Steps
 1. Log in to the application with valid credentials
