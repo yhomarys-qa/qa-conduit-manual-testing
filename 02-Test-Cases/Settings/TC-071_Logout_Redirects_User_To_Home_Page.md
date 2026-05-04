@@ -1,4 +1,4 @@
-# TC-71 - User is redirected to home page after clicking logout button
+# TC-071 - User is redirected to home page after clicking logout button
 
 ## Steps
 1. Log in to the application with valid credentials
