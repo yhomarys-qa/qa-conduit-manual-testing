@@ -127,7 +127,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | BUG-017 | Incorrect Error Message for Invalid Password |
 | BUG-018 | Missing “Forgot Password” Link on Login Page |
 | BUG-019 | Missing “Send Temporary Password” Link After Invalid Login |
-| BUG-020 | New Password Accepts Less Than Minimum Length |
+| BUG-020 | New Password Accepts Below Minimum Length |
 | BUG-021 | Password Uppercase Requirement Not Enforced |
 
 ---
