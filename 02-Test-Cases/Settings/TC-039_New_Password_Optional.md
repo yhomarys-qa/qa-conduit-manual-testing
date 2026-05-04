@@ -1,4 +1,4 @@
-# TC-39 - New Password field is optional in Settings
+# TC-039 - New Password field is optional in Settings
 
 ## Steps
 1. Log in to the application with valid credentials
