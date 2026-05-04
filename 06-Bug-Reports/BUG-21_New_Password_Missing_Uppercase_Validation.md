@@ -1,7 +1,5 @@
 # 🐞 BUG-21 – New Password Allows Submission Without Uppercase Letter
 
----
-
 ### 📝 Summary
 The system allows users to set a new password without at least one uppercase letter, violating password complexity requirements and compromising security rules.
 
