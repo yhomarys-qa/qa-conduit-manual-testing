@@ -1,4 +1,4 @@
-# TC-66 - User can log in using the new password after updating it
+# TC-066 - User can log in using the new password after updating it
 
 ## Steps
 1. Log in to the application with valid credentials
