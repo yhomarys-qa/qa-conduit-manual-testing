@@ -1,4 +1,4 @@
-# TC-15 - Username accepts only Latin letters and digits
+# TC-015 - Username accepts only Latin letters and digits
 
 ## Steps
 1. Log in to the application with valid credentials
