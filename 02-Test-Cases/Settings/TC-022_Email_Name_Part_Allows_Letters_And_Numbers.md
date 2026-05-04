@@ -1,4 +1,4 @@
-# TC-22 - Email name part allows Latin letters and digits
+# TC-022 - Email name part allows Latin letters and digits
 
 ## Steps
 1. Log in to the application with valid credentials
