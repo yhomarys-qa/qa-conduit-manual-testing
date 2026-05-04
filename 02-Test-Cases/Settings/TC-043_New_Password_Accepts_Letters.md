@@ -1,4 +1,4 @@
-# TC-43 - New password accepts alphabetic characters
+# TC-043 - New password accepts alphabetic characters
 
 ## Steps
 1. Log in to the application with valid credentials
