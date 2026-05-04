@@ -1,4 +1,4 @@
-# 🐞 BUG-06 - Password Allows Registration with More Than 30 Characters
+# 🐞 BUG-006 - Password Allows Registration with More Than 30 Characters
 
 ## 📌 Summary
 The system allows user registration with a password exceeding the maximum allowed length (30 characters), indicating that the upper boundary validation is not enforced.
