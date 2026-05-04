@@ -1,4 +1,4 @@
-# 🐞 BUG-14 - Email Field Rejects Uppercase Email on Login
+# 🐞 BUG-014 - Email Field Rejects Uppercase Email on Login
 
 ## 📌 Summary
 The login system incorrectly rejects valid email addresses when they are entered in uppercase letters, treating them as invalid.
