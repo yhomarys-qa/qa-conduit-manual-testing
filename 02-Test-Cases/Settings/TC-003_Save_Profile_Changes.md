@@ -1,4 +1,4 @@
-# TC-03 - User can save profile changes successfully
+# TC-003 - User can save profile changes successfully
 
 ## Steps
 1. Log in to the application with valid credentials
