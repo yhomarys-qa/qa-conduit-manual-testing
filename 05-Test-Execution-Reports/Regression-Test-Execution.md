@@ -112,7 +112,7 @@ All test cases were executed, and results are based on actual observed behavior 
 
 | Bug ID | Description |
 |--------|-------------|
-| BUG-001 | Username validation duplicated/inconsistent rules |
+| BUG-001 | Username Allows Registration with Only 2 Characters |
 | BUG-002 | Email allows invalid special characters |
 | BUG-003 | Username min length not enforced |
 | BUG-005 | Password min length not enforced |
