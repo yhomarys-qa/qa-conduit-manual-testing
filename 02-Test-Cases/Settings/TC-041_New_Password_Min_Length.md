@@ -1,4 +1,4 @@
-# TC-41 - New password must have a minimum of 8 characters
+# TC-041 - New password must have a minimum of 8 characters
 
 ## Steps
 1. Log in to the application with valid credentials
