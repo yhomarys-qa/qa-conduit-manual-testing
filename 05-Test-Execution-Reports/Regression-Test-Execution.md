@@ -103,8 +103,8 @@ All test cases were executed, and results are based on actual observed behavior 
 
 | Status | Total |
 |--------|------|
-| PASS | 34 |
-| FAIL | 12 |
+| PASS | 32 |
+| FAIL | 21 |
 
 ---
 
