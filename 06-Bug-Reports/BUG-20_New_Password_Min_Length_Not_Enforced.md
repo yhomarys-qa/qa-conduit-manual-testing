@@ -1,6 +1,4 @@
-## 🐞 BUG-20 – New Password Allows Less Than Minimum Length
-
----
+# 🐞 BUG-20 – New Password Allows Less Than Minimum Length
 
 ### 📝 Summary
 The system allows users to set a new password with fewer than 8 characters, violating the minimum password length requirement and compromising security rules.
