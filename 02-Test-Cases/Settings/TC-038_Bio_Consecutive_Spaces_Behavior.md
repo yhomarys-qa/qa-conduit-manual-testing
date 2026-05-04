@@ -1,4 +1,4 @@
-# TC-38 - Bio field handles consecutive spaces correctly
+# TC-038 - Bio field handles consecutive spaces correctly
 
 ## Steps
 1. Log in to the application with valid credentials
