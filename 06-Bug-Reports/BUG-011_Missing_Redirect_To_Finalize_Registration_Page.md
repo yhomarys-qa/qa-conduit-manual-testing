@@ -1,4 +1,4 @@
-# 🐞 BUG-11 - System Does Not Redirect to “Finalize Registration” Page After Successful Registration
+# 🐞 BUG-011 - System Does Not Redirect to “Finalize Registration” Page After Successful Registration
 
 ## 📌 Summary
 After successful registration, the system incorrectly redirects the user directly to the Home page instead of the expected “Finalize Registration” page, skipping the email verification step.
