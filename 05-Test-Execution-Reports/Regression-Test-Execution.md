@@ -62,7 +62,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | TC-002 | Access without authentication | PASS | - |
 | TC-003 | Article Title is a Required Field | PASS | - |
 | TC-005 | Article Title Minimum Length Validation | PASS | - |
-| TC-013 | Description required | PASS | - |
+| TC-013 | Article Description is a Required Field | PASS | - |
 | TC-022 | Body required | PASS | - |
 | TC-034 | Add valid tag | PASS | - |
 
