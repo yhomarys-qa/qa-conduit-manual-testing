@@ -1,4 +1,4 @@
-# TC-07 - User can navigate to the Settings page from the header
+# TC-007 - User can navigate to the Settings page from the header
 
 ## Steps
 1. Log in to the application with valid credentials
