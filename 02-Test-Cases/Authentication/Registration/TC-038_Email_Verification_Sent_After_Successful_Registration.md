@@ -1,4 +1,5 @@
-# TC-038 - Email Verification Sent After Successful Registration
+# TC-038 - Redirect to “Finalize Registration” After Successful Signup
+
 
 ## Steps
 1. Open the Conduit application
