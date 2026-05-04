@@ -1,4 +1,4 @@
-# TC-02 - User can edit profile information fields
+# TC-002 - User can edit profile information fields
 
 ## Steps
 1. Log in to the application with valid credentials
