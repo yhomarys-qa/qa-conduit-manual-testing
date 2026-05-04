@@ -1,4 +1,4 @@
-# TC-63 - User session remains active after updating email address
+# TC-063 - User session remains active after updating email address
 
 ## Steps
 1. Log in to the application with valid credentials
