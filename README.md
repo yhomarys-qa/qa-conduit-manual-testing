@@ -86,7 +86,7 @@ Manual test execution is documented in:
 
 Some of the bugs identified during testing:
 
-- 🐛 [BUG-002 | Email - Special Characters](./06-Bug-Reports/BUG-002_Username_Validation.md)
+- 🐛 [BUG-002 | Email - Special Characters](./06-Bug-Reports/BUG-002_Username_Validation_Message_Duplicated.md)
 - 🐛 [BUG-010 | Registration - Verification Email Not Sent](./06-Bug-Reports/BUG-010_Verification_Email_Not_Sent_After_Registration.md)
 - 🐛 [BUG-019 | Login - Forgot Your Password Link](./06-Bug-Reports/BUG-019_Missing_Temporary_Password_Link_On_Login.md)
 
