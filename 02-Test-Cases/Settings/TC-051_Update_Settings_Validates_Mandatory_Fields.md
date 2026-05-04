@@ -1,4 +1,4 @@
-# TC-51 - Update Settings button validates required fields before saving
+# TC-051 - Update Settings button validates required fields before saving
 
 ## Steps
 1. Log in to the application with valid credentials
