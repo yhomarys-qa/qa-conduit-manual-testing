@@ -1,4 +1,4 @@
-# TC-44 - New password must contain at least one uppercase letter
+# TC-044 - New password must contain at least one uppercase letter
 
 ## Steps
 1. Log in to the application with valid credentials
