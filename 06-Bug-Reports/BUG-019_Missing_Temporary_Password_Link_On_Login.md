@@ -1,4 +1,4 @@
-# 🐞 BUG-19 - “Send Temporary Password” Link Not Displayed After Invalid Login Attempt
+# 🐞 BUG-019 - “Send Temporary Password” Link Not Displayed After Invalid Login Attempt
 
 ## 📌 Summary
 The system does not display the "Send temporary password" link after an invalid login attempt, preventing users from accessing the password recovery option directly from the login error state.
