@@ -117,7 +117,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | BUG-003 | Incomplete Email Already Registered Message |
 | BUG-004 | Email Accepts Invalid Special Characters |
 | BUG-005 | Password Accepts Less Than 8 Characters |
-| BUG-006 | Password Max Length Not Enforced |
+| BUG-006 | Password Accepts More Than 30 Characters |
 | BUG-007 | Password Uppercase Requirement Not Enforced |
 | BUG-008 | Password Number & Special Character Requirements Not Enforced |
 | BUG-009 | Confirm Password Field Not Displayed |
