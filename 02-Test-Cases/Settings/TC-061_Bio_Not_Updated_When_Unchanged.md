@@ -1,4 +1,4 @@
-# TC-61 - Bio is not updated when no changes are made
+# TC-061 - Bio is not updated when no changes are made
 
 ## Steps
 1. Log in to the application with valid credentials
