@@ -1,4 +1,4 @@
-# TC-01 - Logged-in user can access the Settings page
+# TC-001 - Logged-in user can access the Settings page
 
 ## Steps
 1. Log in to the application with valid credentials
