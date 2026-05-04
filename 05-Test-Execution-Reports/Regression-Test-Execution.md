@@ -115,7 +115,8 @@ All test cases were executed, and results are based on actual observed behavior 
 | BUG-001 | Username Allows Registration with Only 2 Characters |
 | BUG-002 | Username Validation Message Inconsistent |
 | BUG-003 | Incomplete Email Already Registered Message |
-| BUG-005 | Password min length not enforced |
+| BUG-004 | Email Accepts Invalid Special Characters |
+| BUG-005 | Email Accepts Invalid Special Characters |
 | BUG-006 | Password max length not enforced |
 | BUG-007 | Password uppercase rule missing |
 | BUG-008 | Password complexity not enforced |
