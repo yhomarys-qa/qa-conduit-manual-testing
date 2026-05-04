@@ -1,4 +1,4 @@
-# TC-40 - New password cannot be the same as the current password
+# TC-040 - New password cannot be the same as the current password
 
 ## Steps
 1. Log in to the application with valid credentials
