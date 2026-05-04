@@ -1,4 +1,4 @@
-# TC-33 - Bio field accepts numeric characters
+# TC-033 - Bio field accepts numeric characters
 
 ## Steps
 1. Log in to the application with valid credentials
