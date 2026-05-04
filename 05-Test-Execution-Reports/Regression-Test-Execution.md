@@ -23,8 +23,8 @@ All test cases were executed, and results are based on actual observed behavior 
 | TC-004 | Login with username | FAIL | BUG-12 |
 | TC-005 | Empty email validation | PASS | - |
 | TC-014 | Invalid password validation | FAIL | BUG-17 |
-| TC-016 | Forgot password link visible | FAIL | BUG-19 |
-| TC-017 | Forgot password redirect | FAIL | BUG-18 |
+| TC-016 | Forgot your password link visible | FAIL | BUG-18 |
+| TC-017 | Redirect to password recovery | FAIL | BUG-19 |
 | TC-018 | Login button displayed | PASS | - |
 | TC-020 | Login using Enter key | PASS | - |
 
