@@ -1,4 +1,4 @@
-# TC-31 - Bio field enforces a maximum length of 9000 characters
+# TC-031 - Bio field enforces a maximum length of 9000 characters
 
 ## Steps
 1. Log in to the application with valid credentials
