@@ -91,7 +91,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | TC-003 | Save profile changes | PASS | - |
 | TC-011 | Username mandatory | PASS | - |
 | TC-020 | Email mandatory | PASS | - |
-| TC-041 | New Password Allows Less Than Minimum Length | FAIL | BUG-020 |
+| TC-041 | New password must have a minimum of 8 characters | FAIL | BUG-020 |
 | TC-044 | New Password uppercase rule | FAIL | BUG-021 |
 | TC-050 | Update settings valid data | PASS | - |
 | TC-071 | Logout redirects home | PASS | - |
