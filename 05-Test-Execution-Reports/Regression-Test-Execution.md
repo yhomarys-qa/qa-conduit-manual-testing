@@ -91,8 +91,8 @@ All test cases were executed, and results are based on actual observed behavior 
 | TC-003 | Save profile changes | PASS | - |
 | TC-011 | Username mandatory | PASS | - |
 | TC-020 | Email mandatory | PASS | - |
-| TC-041 | Password min length | FAIL | BUG-020 |
-| TC-044 | Password uppercase rule | FAIL | BUG-021 |
+| TC-041 | new Password min length | FAIL | BUG-020 |
+| TC-044 | New Password uppercase rule | FAIL | BUG-021 |
 | TC-050 | Update settings valid data | PASS | - |
 | TC-071 | Logout redirects home | PASS | - |
 | TC-072 | Session termination | PASS | - |
