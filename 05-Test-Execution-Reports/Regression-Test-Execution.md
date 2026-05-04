@@ -125,7 +125,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | BUG-011 | Missing Redirect to Finalize Registration Page |
 | BUG-012 | Login Field Does Not Accept Username |
 | BUG-017 | Incorrect Error Message for Invalid Password |
-| BUG-018 | Temporary Password Link Not Displayed |
+| BUG-018 | Missing “Forgot Password” Link on Login Page |
 | BUG-019 | Forgot password link missing |
 
 ---
