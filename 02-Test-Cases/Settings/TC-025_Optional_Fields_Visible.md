@@ -1,4 +1,4 @@
-# TC-25 - Optional fields are visible on the Settings page
+# TC-025 - Optional fields are visible on the Settings page
 
 ## Steps
 1. Log in to the application with valid credentials
