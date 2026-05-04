@@ -1,4 +1,4 @@
-# 🐞 BUG-05 - Password Allows Registration with Less Than 8 Characters
+# 🐞 BUG-005 - Password Allows Registration with Less Than 8 Characters
 
 ## 📌 Summary
 The system allows user registration with a password shorter than the required minimum length (8 characters), compromising password security rules.
