@@ -1,4 +1,4 @@
-# TC-17 - Username does not allow special characters
+# TC-017 - Username does not allow special characters
 
 ## Steps
 1. Log in to the application with valid credentials
