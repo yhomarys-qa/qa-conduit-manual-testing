@@ -119,7 +119,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | BUG-005 | Password Accepts Less Than 8 Characters |
 | BUG-006 | Password Accepts More Than 30 Characters |
 | BUG-007 | Password allows registration without capital letters |
-| BUG-008 | Password Number & Special Character Requirements Not Enforced |
+| BUG-008 | Password Allows Missing Number and Special Characters |
 | BUG-009 | Confirm Password Field Not Displayed |
 | BUG-010 | Verification Email Not Sent |
 | BUG-011 | Missing Redirect to Finalize Registration Page |
