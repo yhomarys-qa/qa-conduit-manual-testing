@@ -1,4 +1,4 @@
-# TC-35 - Bio field accepts spaces between words
+# TC-035 - Bio field accepts spaces between words
 
 ## Steps
 1. Log in to the application with valid credentials
