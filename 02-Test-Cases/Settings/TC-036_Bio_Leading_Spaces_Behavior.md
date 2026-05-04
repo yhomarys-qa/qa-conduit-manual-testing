@@ -1,4 +1,4 @@
-# TC-36 - Bio field handles leading spaces correctly
+# TC-036 - Bio field handles leading spaces correctly
 
 ## Steps
 1. Log in to the application with valid credentials
