@@ -1,4 +1,4 @@
-# TC-16 - Username must start with a letter
+# TC-016 - Username must start with a letter
 
 ## Steps
 1. Log in to the application with valid credentials
