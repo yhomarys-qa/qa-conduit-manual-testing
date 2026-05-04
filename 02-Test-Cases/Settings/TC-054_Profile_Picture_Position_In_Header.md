@@ -1,4 +1,4 @@
-# TC-54 - Profile picture is displayed next to username in the top-right header
+# TC-054 - Profile picture is displayed next to username in the top-right header
 
 ## Steps
 1. Log in to the application with valid credentials
