@@ -120,7 +120,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | BUG-006 | Password Accepts More Than 30 Characters |
 | BUG-007 | Password allows registration without capital letters |
 | BUG-008 | Password Allows Missing Number and Special Characters |
-| BUG-009 | Registration Form Missing Confirm Password Field |
+| BUG-009 | Confirm Password Field Not Displayed in Registration Form |
 | BUG-010 | Verification Email Not Sent |
 | BUG-011 | Missing Redirect to Finalize Registration Page |
 | BUG-012 | Login Field Does Not Accept Username |
