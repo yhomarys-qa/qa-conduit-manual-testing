@@ -1,4 +1,4 @@
-# TC-13 - Username must have a minimum length of 3 characters
+# TC-013 - Username must have a minimum length of 3 characters
 
 ## Steps
 1. Log in to the application with valid credentials
