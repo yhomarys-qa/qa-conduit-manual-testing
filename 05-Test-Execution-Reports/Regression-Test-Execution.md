@@ -73,7 +73,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | TC ID | Test Case | Status | Bug Reference |
 |------|-----------|--------|---------------|
 | TC-001 | Home via logo | PASS | - |
-| TC-004 | Feed tabs visible | PASS | - |
+| TC-004 | Feed Tabs are Visible for Logged-In User | PASS | - |
 | TC-005 | Empty feed behavior | PASS | - |
 | TC-010 | Pagination | PASS | - |
 | TC-013 | Author display | PASS | - |
