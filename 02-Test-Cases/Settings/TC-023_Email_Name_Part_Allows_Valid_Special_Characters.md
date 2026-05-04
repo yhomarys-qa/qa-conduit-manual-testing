@@ -1,4 +1,4 @@
-# TC-23 - Email name part accepts valid special characters
+# TC-023 - Email name part accepts valid special characters
 
 ## Steps
 1. Log in to the application with valid credentials
