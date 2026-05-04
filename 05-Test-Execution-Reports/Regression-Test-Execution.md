@@ -87,7 +87,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | TC ID | Test Case | Status | Bug Reference |
 |------|-----------|--------|---------------|
 | TC-001 | Access Settings page | PASS | - |
-| TC-002 | Edit profile | PASS | - |
+| TC-002 | User can edit profile information fields | PASS | - |
 | TC-003 | Save profile changes | PASS | - |
 | TC-011 | Username mandatory | PASS | - |
 | TC-020 | Email mandatory | PASS | - |
