@@ -1,4 +1,4 @@
-# TC-26 - Profile Picture URL field is optional
+# TC-026 - Profile Picture URL field is optional
 
 ## Steps
 1. Log in to the application with valid credentials
