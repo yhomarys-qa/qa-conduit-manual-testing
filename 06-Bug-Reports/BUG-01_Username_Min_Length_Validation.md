@@ -1,4 +1,4 @@
-# 🐞 BUG-001 - Username Allows Registration with Only 2 Characters
+# 🐞 BUG-01 - Username Allows Registration with Only 2 Characters
 
 ## 📌 Summary
 The system allows user registration with a username containing only 2 characters, violating the minimum length requirement.
