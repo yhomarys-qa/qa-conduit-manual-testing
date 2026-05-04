@@ -1,4 +1,4 @@
-# TC-12 - Username must be unique
+# TC-012 - Username must be unique
 
 ## Steps
 1. Log in to the application with valid credentials
