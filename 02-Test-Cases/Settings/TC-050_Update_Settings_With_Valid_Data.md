@@ -1,4 +1,4 @@
-# TC-50 - Update Settings button successfully saves valid user data
+# TC-050 - Update Settings button successfully saves valid user data
 
 ## Steps
 1. Log in to the application with valid credentials
