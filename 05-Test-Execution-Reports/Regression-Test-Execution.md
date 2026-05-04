@@ -77,7 +77,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | TC-005 | Your Feed is Empty by Default | PASS | - |
 | TC-010 | Pagination Displays a Maximum of 10 Articles per Page | PASS | - |
 | TC-013 | Article Displays Author Avatar and Username | PASS | - |
-| TC-025 | Like article | PASS | - |
+| TC-025 | User Can Like Article via Like Button | PASS | - |
 | TC-029 | Filter by tag | PASS | - |
 
 ---
