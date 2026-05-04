@@ -1,4 +1,4 @@
-# 🐞 BUG-02 - System allows email with invalid special characters
+# 🐞 BUG-004 - System allows email with invalid special characters
 
 ## 📌 Summary
 The system allows registration with an email containing special characters that are not valid in the local part of the email address.
