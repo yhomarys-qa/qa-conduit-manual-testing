@@ -57,7 +57,7 @@ The objective is to validate critical system functionality after test execution.
 | Status | Total |
 |--------|------|
 | PASS | 8 |
-| FAIL | 1 |
+| FAIL | 2 |
 
 ---
 
