@@ -1,4 +1,4 @@
-# TC-53 - Updated profile picture is displayed after saving settings
+# TC-053 - Updated profile picture is displayed after saving settings
 
 ## Steps
 1. Log in to the application with valid credentials
