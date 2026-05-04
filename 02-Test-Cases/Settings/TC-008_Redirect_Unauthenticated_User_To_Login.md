@@ -1,4 +1,4 @@
-# TC-08 - Unauthenticated user is redirected to the Login page when accessing Settings via URL
+# TC-008 - Unauthenticated user is redirected to the Login page when accessing Settings via URL
 
 ## Steps
 1. Ensure the user is not logged in
