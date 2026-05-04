@@ -1,4 +1,4 @@
-# TC-20 - Email field is mandatory
+# TC-020 - Email field is mandatory
 
 ## Steps
 1. Log in to the application with valid credentials
