@@ -1,4 +1,4 @@
-# 🐞 BUG-02 - Username Validation Message is Duplicated and Inconsistent
+# 🐞 BUG-002 - Username Validation Message is Duplicated and Inconsistent
 
 ## 📌 Summary
 The validation message for the "Username" field appears duplicated and contains inconsistent rules, causing confusion for the user during registration.
