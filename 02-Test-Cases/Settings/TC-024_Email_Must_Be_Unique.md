@@ -1,4 +1,4 @@
-# TC-24 - Email must be unique in the system
+# TC-024 - Email must be unique in the system
 
 ## Steps
 1. Log in to the application with valid credentials
