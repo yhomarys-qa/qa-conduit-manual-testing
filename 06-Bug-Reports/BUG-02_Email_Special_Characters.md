@@ -1,4 +1,4 @@
-# 🐞 BUG-02 - Email Field Allows Invalid Special Characters in Local Part
+# 🐞 BUG-02 - The system allows registration with an "Email" containing special characters that are prohibited in the "name" field.
 
 ## 📌 Summary
 The system allows registration with an email containing special characters that are not valid in the local part of the email address.
