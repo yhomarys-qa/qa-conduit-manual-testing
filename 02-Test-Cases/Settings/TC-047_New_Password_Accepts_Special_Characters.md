@@ -1,4 +1,4 @@
-# TC-47 - New password accepts special characters
+# TC-047 - New password accepts special characters
 
 ## Steps
 1. Log in to the application with valid credentials
