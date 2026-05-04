@@ -75,7 +75,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | TC-001 | Home via logo | PASS | - |
 | TC-004 | Feed Tabs are Visible for Logged-In User | PASS | - |
 | TC-005 | Your Feed is Empty by Default | PASS | - |
-| TC-010 | Pagination | PASS | - |
+| TC-010 | Pagination Displays a Maximum of 10 Articles per Page | PASS | - |
 | TC-013 | Author display | PASS | - |
 | TC-025 | Like article | PASS | - |
 | TC-029 | Filter by tag | PASS | - |
