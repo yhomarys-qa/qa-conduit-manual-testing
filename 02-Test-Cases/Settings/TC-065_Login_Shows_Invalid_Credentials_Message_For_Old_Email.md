@@ -1,4 +1,4 @@
-# TC-65 - Appropriate error message is displayed when logging in with an outdated email
+# TC-065 - Appropriate error message is displayed when logging in with an outdated email
 
 ## Steps
 1. Log in to the application with valid credentials
