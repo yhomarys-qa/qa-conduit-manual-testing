@@ -1,4 +1,4 @@
-# 🐞 BUG-008 - Password Does Not Enforce Number and Special Character Requirements
+# 🐞 BUG-008 - Password Allows Missing Number and Special Characters
 
 ## 📌 Summary
 The system does not properly validate password complexity rules, allowing registration even when the password does not include required numbers and/or special characters.
