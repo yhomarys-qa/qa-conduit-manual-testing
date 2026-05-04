@@ -1,4 +1,4 @@
-# TC-64 - User cannot log in using the old email after email update
+# TC-064 - User cannot log in using the old email after email update
 
 ## Steps
 1. Log in to the application with valid credentials
