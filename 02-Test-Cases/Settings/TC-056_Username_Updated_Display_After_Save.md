@@ -1,4 +1,4 @@
-# TC-56 - Updated username is displayed correctly after saving settings
+# TC-056 - Updated username is displayed correctly after saving settings
 
 ## Steps
 1. Log in to the application with valid credentials
