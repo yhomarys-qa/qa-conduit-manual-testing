@@ -1,4 +1,4 @@
-# TC-34 - Bio field accepts special characters
+# TC-034 - Bio field accepts special characters
 
 ## Steps
 1. Log in to the application with valid credentials
