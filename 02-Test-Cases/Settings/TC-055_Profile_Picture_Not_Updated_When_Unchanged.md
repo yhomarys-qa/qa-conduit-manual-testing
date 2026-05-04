@@ -1,4 +1,4 @@
-# TC-55 - Profile picture is not updated when the field value is not modified
+# TC-055 - Profile picture is not updated when the field value is not modified
 
 ## Steps
 1. Log in to the application with valid credentials
