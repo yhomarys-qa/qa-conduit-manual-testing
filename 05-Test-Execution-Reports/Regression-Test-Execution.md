@@ -54,7 +54,6 @@ All test cases were executed, and results are based on actual observed behavior 
 
 ---
 
-
 # 📝 Articles – New Article
 
 | TC ID | Test Case | Status | Bug Reference |
