@@ -34,7 +34,7 @@ All test cases were executed, and results are based on actual observed behavior 
 | TC-029 | The password must contain a special character | FAIL | BUG-008 |
 | TC-030 | Visibility Confirm password field | FAIL | BUG-009 |
 | TC-037 | Registration completed successfully | FAIL | BUG-010 |
-| TC-038 | Redirect to "Complete Registration" | FAIL | BUG-011 |
+| TC-038 | Redirect to "Finalize Registration" | FAIL | BUG-011 |
 
 ---
 
