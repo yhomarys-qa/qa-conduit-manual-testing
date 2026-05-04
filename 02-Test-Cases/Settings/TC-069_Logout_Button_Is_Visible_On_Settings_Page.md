@@ -1,4 +1,4 @@
-# TC-69 - Logout button is displayed on the Settings page
+# TC-069 - Logout button is displayed on the Settings page
 
 ## Steps
 1. Log in to the application with valid credentials
