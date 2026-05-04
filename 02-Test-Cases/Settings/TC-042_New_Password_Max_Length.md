@@ -1,4 +1,4 @@
-# TC-42 - New password must not exceed 30 characters
+# TC-042 - New password must not exceed 30 characters
 
 ## Steps
 1. Log in to the application with valid credentials
