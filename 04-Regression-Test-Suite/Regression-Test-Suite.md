@@ -97,7 +97,7 @@ This suite covers 100% of the test cases created in the project:
 
 # 📰 Articles Module – New Article
 
-- C-001_Access_New_Article_Page_Logged_In_User.md  
+- TC-001_Access_New_Article_Page_Logged_In_User.md  
 - TC-002_Access_New_Article_Page_Without_Authentication.md  
 - TC-003_Article_Title_Required_Field.md  
 - TC-004_Duplicate_Article_Title_Warning_Message.md  
