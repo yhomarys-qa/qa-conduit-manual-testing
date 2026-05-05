@@ -44,6 +44,8 @@ The system should reject the update and display a validation error message when 
 ### 📎 Evidence
 The attached video demonstrates that the system accepts a password with only 3 characters without any validation error.
 
+Test password used: Ab2
+
 https://1drv.ms/v/c/908f21af6642c0ae/IQAIzduGEfP3SYJlHzk3RL2lAb7etRlQGm1kUSnF2Ny917g?e=vCbbGT
 
 ---
