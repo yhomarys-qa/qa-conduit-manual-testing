@@ -18,10 +18,10 @@ The objective is to validate critical system functionality after test execution.
 
 | TC ID | Test Case | Status | Bug Reference |
 |------|-----------|--------|---------------|
-| SMK-01 | Access Login Page | PASS | - |
-| SMK-02 | Login with valid credentials | PASS | - |
-| SMK-03 | Registration with valid data | FAIL | BUG-10, BUG-11 |
-| SMK-04 | Basic login validation | PASS | - |
+| SMK-001 | Access Login Page | PASS | - |
+| SMK-002 | Login with valid credentials | PASS | - |
+| SMK-003 | Registration with valid data | FAIL | BUG-10, BUG-11 |
+| SMK-004 | Basic login validation | PASS | - |
 
 ---
 
@@ -29,9 +29,9 @@ The objective is to validate critical system functionality after test execution.
 
 | TC ID | Test Case | Status | Bug Reference |
 |------|-----------|--------|---------------|
-| SMK-05 | Home page loads successfully | PASS | - |
-| SMK-06 | Feed is displayed | PASS | - |
-| SMK-07 | Basic navigation works | PASS | - |
+| SMK-005 | Home page loads successfully | PASS | - |
+| SMK-006 | Feed is displayed | PASS | - |
+| SMK-007 | Basic navigation works | PASS | - |
 
 ---
 
@@ -39,8 +39,8 @@ The objective is to validate critical system functionality after test execution.
 
 | TC ID | Test Case | Status | Bug Reference |
 |------|-----------|--------|---------------|
-| SMK-08 | Access Settings page | PASS | - |
-| SMK-09 | Update profile basic info | PASS | - |
+| SMK-008 | Access Settings page | PASS | - |
+| SMK-009 | Update profile basic info | PASS | - |
 
 ---
 
@@ -48,7 +48,7 @@ The objective is to validate critical system functionality after test execution.
 
 | TC ID | Test Case | Status | Bug Reference |
 |------|-----------|--------|---------------|
-| SMK-10 | Basic article access | PASS | - |
+| SMK-010 | Basic article access | PASS | - |
 
 ---
 
@@ -65,8 +65,8 @@ The objective is to validate critical system functionality after test execution.
 
 | Bug ID | Description |
 |--------|-------------|
-| BUG-10 | Email verification not sent after registration |
-| BUG-11 | Registration bypasses verification and redirects to Home |
+| BUG-010 | Email verification not sent after registration |
+| BUG-011 | Registration bypasses verification and redirects to Home |
 
 ---
 
