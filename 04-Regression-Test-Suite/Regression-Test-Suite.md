@@ -42,7 +42,8 @@ This suite covers 100% of the test cases created in the project:
 - TC-019_Login_Using_SignIn_Button.md  
 - TC-020_Login_Using_Enter_Key.md  
 - TC-021_Login_Sign_Up_Link_Displayed.md  
-- TC-022_Sign_Up_Link_Redirection.md  
+- TC-022_Sign_Up_Link_Redirection.md
+- TC-023_Authenticated_User_Redirection_From_Login_Page.md
 
 ---
 
