@@ -48,7 +48,7 @@ This smoke suite covers the core system flows:
 
 ### ⚙️ Settings
 
-- TC-50_Update_Settings_With_Valid_Data.md  
+- TC-050_Update_Settings_With_Valid_Data.md  
 
 ---
 
